@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- Requied meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial scale=1, shrink-to-fit=no">
+        
+		<title>CodeUntapped</title>
+        <link href="bootstrap/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+        <link href="jquery.ui.chatbox-master/jquery.ui.chatbox.css" type="text/css" rel="stylesheet" />
+        <link href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css " type="text/css" rel="stylesheet" />
+        <link href="styles/SafeStore.css" type="text/css" rel="stylesheet" />
+	</head>
+	<body>
+        <h1>Data Sourcing</h1>
+        <br/>
+        <h5 id="welcomeBanner">Welcome banner</h5>
+        <br/>
+
+        <form>
+            <button type="button" id="sourceDataButton" class="btn btn-success">SourceData</button>
+        </form>
+        <div class="column1">
+            <br />
+            <table id="dataRecords" class="table table-striped table-hover table-sm">
+                <thead>
+                    <tr><th>FirstName</th><th>LastName</th><th>Affiliation</th></tr>
+                </thead>
+            </table>
+            <br />
+        </div>
+       
+        <!-- Jquery first, then Popper.js, then Bootstrap JS -->
+     <!--   <script src="scripts/jquery-3.2.1.js"> </script>  -->
+        <script src="https://code.jquery.com/jquery-3.3.1.js "> </script>
+		<script src="jquery-ui/jquery-ui.js"> </script>
+        <script src="bootstrap/js/bootstrap.min.js"> </script>
+        <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"> </script>
+        <script src="jquery.ui.chatbox-master/jquery.ui.chatbox.js"> </script>
+        <script src="scripts/DataSourcing.js"> </script>
+	</body>
+</html>

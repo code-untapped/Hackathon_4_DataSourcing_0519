@@ -1,0 +1,100 @@
+id;object_id;first_name;last_name;birthplace;affiliation_name
+1;p:2;Ben;Elowitz;UNDEFINED;Blue Nile
+2;p:3;Kevin;Flaherty;UNDEFINED;Wetpaint
+3;p:4;Raju;Vegesna;UNDEFINED;Zoho
+4;p:5;Ian;Wenig;UNDEFINED;Zoho
+5;p:6;Kevin;Rose;Redding, CA;i/o Ventures
+6;p:7;Jay;Adelson;Detroit, MI;Digg
+7;p:8;Owen;Byrne;UNDEFINED;Digg
+8;p:9;Ron;Gorodetzky;UNDEFINED;Digg
+9;p:10;Mark;Zuckerberg;UNDEFINED;Facebook
+10;p:11;Dustin;Moskovitz;Gainesville, FL;Facebook
+11;p:12;Owen;Van Natta;UNDEFINED;Asana
+12;p:13;Matt;Cohler;UNDEFINED;LinkedIn
+13;p:14;Chris;Hughes;Hickery, North Carolina;General Catalyst Partners
+14;p:16;Alex;Welch;UNDEFINED;C7 Group
+15;p:17;Darren;Crystal;UNDEFINED;Photobucket
+16;p:18;Michael;Clark;UNDEFINED;Photobucket (Old)
+17;p:19;Greg;Wimmer;UNDEFINED;Photobucket
+18;p:20;Peter;Foster;UNDEFINED;Photobucket
+19;p:21;Heather;Dana;UNDEFINED;Photobucket
+20;p:22;Peter;Pham;UNDEFINED;Photobucket, Inc.
+21;p:23;Scott;Penberthy;UNDEFINED;Photobucket
+22;p:24;Alice;Lankester;Surrey, England;Apple
+23;p:25;Alex;Musil;UNDEFINED;Photobucket
+24;p:26;Peter;Thiel;UNDEFINED;Confinity
+25;p:29;Gus;Tai;UNDEFINED;BillShrink
+26;p:30;David;Sacks;UNDEFINED;GumGum
+27;p:31;Alan;Braverman;UNDEFINED;Geni
+28;p:32;Ken;Howery;UNDEFINED;The Founder's Fund
+29;p:33;Luke;Nosek;UNDEFINED;The Founder's Fund
+30;p:34;Sean;Parker;UNDEFINED;Asana
+31;p:35;George;Zachary;UNDEFINED;Millennial Media
+32;p:37;Greg;Waldorf;UNDEFINED;Charles River Ventures
+33;p:39;Jason;Rubin;USA;Monkey Gods
+34;p:40;Andy;Gavin;UNDEFINED;Flektor
+35;p:41;Jason;Kay;UNDEFINED;Flektor
+36;p:42;Evan;Williams;UNDEFINED;Google
+37;p:43;Garrett;Camp;UNDEFINED;CitiVox
+38;p:44;Geoff;Smith;UNDEFINED;StumbleUpon
+39;p:45;Justin;LeFrance;UNDEFINED;StumbleUpon
+40;p:46;Jack;Dorsey;St. Louis, MO;Twitter, Square
+41;p:48;Jason;Goldman;UNDEFINED;Twitter
+42;p:49;Biz;Stone;UNDEFINED;Twitter
+43;p:51;Efrat;Moshkoviz;UNDEFINED;Gizmoz
+44;p:52;Amihay;Zer Kavod;UNDEFINED;Gizmoz
+45;p:53;Eldad;Ben Tora;Israel;Spark Networks
+46;p:56;Eli;Wurtman;UNDEFINED;Gizmoz
+47;p:57;Arun;Gupta;UNDEFINED;Gizmoz
+48;p:58;Barry;Brott;UNDEFINED;Gizmoz
+49;p:59;Dennis;Mudd;UNDEFINED;Slacker
+50;p:60;Jim;Cady;UNDEFINED;Slacker
+51;p:61;Jonathan;Sasse;UNDEFINED;Slacker
+52;p:62;Trip;Adler;UNDEFINED;cacaoTV
+53;p:63;Jared;Friedman;UNDEFINED;Scribd
+54;p:64;Tikhon;Bernstam;UNDEFINED;Scribd
+55;p:65;Bill;Nguyen;UNDEFINED;Lala
+56;p:66;John;Kuch;UNDEFINED;Lala
+57;p:67;Sky;Dayton;UNDEFINED;Helio
+58;p:68;Wonhee;Sull;UNDEFINED;Helio
+59;p:69;Todd;Tapin;UNDEFINED;Helio
+60;p:70;Kieran;Hannon;UNDEFINED;Helio
+61;p:71;Ali;Zanjani;UNDEFINED;Helio
+62;p:72;Jay;Lee;UNDEFINED;Helio
+63;p:73;Michael;Grossi;UNDEFINED;Helio
+64;p:74;Meg;Whitman;UNDEFINED;Zipcar
+65;p:75;Pierre;Omidyar;UNDEFINED;Omidyar Network
+66;p:76;John;Donahoe;UNDEFINED;JustGive
+67;p:77;William C.;Cobb;UNDEFINED;eBay
+68;p:78;Rajiv;Dutta;UNDEFINED;eBay
+69;p:79;Henry;Gomez;UNDEFINED;eBay
+70;p:80;Niklas;Zennstr?m;UNDEFINED;Skype
+71;p:81;Lorie;Norrington;UNDEFINED;eBay
+72;p:82;Micheal;Jacobson;UNDEFINED;eBay
+73;p:83;Bob;Swan;UNDEFINED;eBay
+74;p:84;Andrew;Weinreich;New York, New York;drop.io
+75;p:85;Jeremy;LaTrasse;UNDEFINED;Odeo
+76;p:86;Quentin;Gallivan;UNDEFINED;Postini
+77;p:87;Scott;Petry;UNDEFINED;Postini
+78;p:89;Don;Beck;UNDEFINED;Postini
+79;p:90;Jocelyn;Ding;UNDEFINED;Google
+80;p:92;Janus;Friis;Copenhagen, Denmark;Joost
+81;p:93;Dirk-Willem;van Gulik;UNDEFINED;Joost
+82;p:94;Ben;Golub;UNDEFINED;Familybuilder
+83;p:96;Mallku;Caballero;UNDEFINED;CommProve
+84;p:97;Michael;O'Callaghan;UNDEFINED;Babelgum
+85;p:98;Silvio;Scaglia;UNDEFINED;Babelgum
+86;p:99;Ryan;King;UNDEFINED;Plaxo
+87;p:100;Peter;Lester;UNDEFINED;Plaxo
+88;p:101;J. Todd;Masonis;UNDEFINED;Plaxo
+89;p:102;John;McCrea;UNDEFINED;Plaxo
+90;p:103;Cameron;T. Ring;UNDEFINED;Plaxo
+91;p:104;Joseph;Smarr;UNDEFINED;Plaxo
+92;p:105;Venkates;Swaminathan;UNDEFINED;Plaxo
+93;p:106;Barney;Pell;UNDEFINED;Powerset
+94;p:107;Steve;Newcomb;UNDEFINED;Virgance
+95;p:108;Lorenzo;Thione;UNDEFINED;CrowdFlower
+96;p:110;Richard;Jalichandra;UNDEFINED;Technorati
+97;p:111;Adam;Hertz;UNDEFINED;Unaffiliated
+98;p:112;Peter;Hirshberg;UNDEFINED;Technorati
+99;p:113;Joi;Ito;Kyoto, Japan;Sanrio Digital
