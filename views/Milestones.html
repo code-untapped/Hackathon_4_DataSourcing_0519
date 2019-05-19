@@ -12,7 +12,7 @@
         <link href="styles/SafeStore.css" type="text/css" rel="stylesheet" />
 	</head>
 	<body>
-        <h1>People Data Sourcing</h1>
+        <h1>Data Sourcing</h1>
         <br/>
         <h5 id="welcomeBanner">Welcome banner</h5>
         <br/>
@@ -24,25 +24,12 @@
             <br />
             <table id="dataRecords" class="table table-striped table-hover table-sm">
                 <thead>
-                    <tr><th>Picture</th><th>FirstName</th><th>LastName</th><th>Affiliation</th><th>Birthplace</th></tr>
+                    <tr><th>id</th><th>object_id</th><th>milestone_at</th><th>milestone_code</th><th>description</th><th>url</th><th>source_description</th><th>created</th><th>updated</th></tr>
                 </thead>
             </table>
             <br />
         </div>
 
-        <h1>Funding Data Sourcing</h1>
-        <form>
-            <button type="button" id="fundingDataButton" class="btn btn-success">Funding Data</button>
-        </form>
-        <div class="column1">
-            <br />
-            <table id="fundingDataRecords" class="table table-striped table-hover table-sm">
-                <thead>
-                    <tr><th>Name</th><th>Raised Amount</th><th>Currency</th></tr>
-                </thead>
-            </table>
-            <br />
-        </div>
        
         <!-- Jquery first, then Popper.js, then Bootstrap JS -->
      <!--   <script src="scripts/jquery-3.2.1.js"> </script>  -->
@@ -51,6 +38,6 @@
         <script src="bootstrap/js/bootstrap.min.js"> </script>
         <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"> </script>
         <script src="jquery.ui.chatbox-master/jquery.ui.chatbox.js"> </script>
-        <script src="scripts/DataSourcing.js"> </script>
+        <script src="scripts/DataSourcing2.js"> </script>
 	</body>
 </html>

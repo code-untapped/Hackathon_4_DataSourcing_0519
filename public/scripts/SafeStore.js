@@ -1,7 +1,7 @@
 var url;
 var login, group, msg;
 
-var server = 'http://35.189.104.97:3000/'
+var server = 'http://35.246.115.207:3000'
 
 if (window.localStorage) {
     login = localStorage.login;

@@ -2,7 +2,7 @@
 
 var login
 
-var server = 'http://35.189.104.97:3000/'
+var server = 'http://35.246.115.207:3000/'
 
 $(function() {
 

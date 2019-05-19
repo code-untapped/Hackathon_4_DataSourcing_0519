@@ -14,6 +14,8 @@ const userAdminServiceProxy = (req, res) => proxy.web(req, res, {target: 'http:/
 const encryptServiceProxy = (req, res) => proxy.web(req, res, {target: 'http://localhost:9020'});
 const decryptServiceProxy = (req, res) => proxy.web(req, res, {target: 'http://localhost:9030'});
 const dataSourceServiceProxy = (req, res) => proxy.web(req, res, {target: 'http://localhost:9040'});
+const performancedataSourceServiceProxy = (req, res) => proxy.web(req, res, {target: 'http://localhost:9050'});
+const dataSourceFundingRProxy = (req, res) => proxy.web(req, res, {target: 'http://localhost:9060'});
 
 
 app.set('port', process.env.PORT || 3000);
@@ -69,9 +71,24 @@ app.get('/decryptData', (req, res) => {
     decryptServiceProxy(req, res);
 });
 
-app.get('/dataSource', (req, res) => {
-    console.log('Attempted dataSourcing: ' + req.query.login)
+app.get('/peopleDataSource', (req, res) => {
+    console.log('Attempted peopleDataSourcing: ' + req.query.login)
     dataSourceServiceProxy(req, res);
+});
+
+app.get('/fundingDataSource', (req, res) => {
+    console.log('Attempted fundingDataSourcing: ' + req.query.login)
+    dataSourceServiceProxy(req, res);
+});
+
+app.get('/dataSourceFundingRounds', (req, res) => {
+    console.log('Attempted dataSourcing: ' + req.query.login)
+    dataSourceFundingRProxy(req, res);
+});
+
+app.get('/datasourceperformanceServer', (req, res) => {
+    console.log('I got the right endpoint')
+    performancedataSourceServiceProxy(req, res);
 });
 
 
